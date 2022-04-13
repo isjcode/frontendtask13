@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    width: max-content;
+}
+
+.box {
+    width: 200px;
+    height: max-content;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+}
+
+.x {
+    width: 20px;
+    height: 20px;
+    color: red;
+    position: absolute;
+    cursor: pointer;
+    right: -3px; 
+    top: -3px;
+}
+
